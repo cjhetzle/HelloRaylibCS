@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUXaeVY7YEXFpUSj0TMoEhvMwEmBLpjPw+Qc+uyd7m9suqturhlnN6gNGvF/KhkFiCclBcdcilP49UtlLYS9rg==",
+  "dgSpecHash": "CbC6zQcRghII2Q4paJxpd6i5UEMTUu5/HEoAXWcp31RQC51RWl2I/DV7EDOUEPOceu3m+NxCXkr9tO8MzZOlMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cjhet\\Projects\\RayLibCSTemplate\\RayLibCSTemplate\\RayLibCSTemplate.csproj",
+  "projectFilePath": "C:\\Users\\cjhet\\Projects\\HelloRayLibCS\\RayLibCSTemplate\\HelloRayLibCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
